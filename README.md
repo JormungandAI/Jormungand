@@ -2,7 +2,7 @@
 
 ## Overview
 
-Jormunand, inspired by the World Serpent from Norse mythology, is an innovative project that fuses the capabilities of the Llama3.0-405b large language model with the conversational intelligence of the Eliza Bot. This project is designed to harness the power of AI for conversational interfaces, particularly through Twitter API integration, and to provide insights into the future of accelerationism and cryptocurrency markets.
+Jormungand, inspired by the World Serpent from Norse mythology, is an innovative project that fuses the capabilities of the Llama3.0-405b large language model with the conversational intelligence of the Eliza Bot. This project is designed to harness the power of AI for conversational interfaces, particularly through Twitter API integration, and to provide insights into the future of accelerationism and cryptocurrency markets.
 
 ## Key Features
 
@@ -12,7 +12,7 @@ Jormunand, inspired by the World Serpent from Norse mythology, is an innovative 
 
 ## Getting Started
 
-To begin working with the Jormunand project, follow these steps:
+To begin working with the Jormungand project, follow these steps:
 
 1. **Environment Setup**:
    - Ensure Python 3.8 or later is installed on your system.
@@ -30,11 +30,11 @@ To begin working with the Jormunand project, follow these steps:
 
 - **Llama3.0-405b**: A cutting-edge large language model that offers deep comprehension and generation capabilities.
 - **Eliza Bot**: A pattern-matching dialogue program that simulates conversation with humans.
-- **Integration**: Jormunand fuses the Eliza Bot's conversational scripts with Llama3.0-405b's NLP capabilities to create a more responsive and adaptive AI system.
+- **Integration**: Jormungand fuses the Eliza Bot's conversational scripts with Llama3.0-405b's NLP capabilities to create a more responsive and adaptive AI system.
 
 ## Predictive Analytics
 
-Jormunand employs sophisticated machine learning algorithms to analyze and predict trends in accelerationism and cryptocurrency markets. This includes:
+Jormungand employs sophisticated machine learning algorithms to analyze and predict trends in accelerationism and cryptocurrency markets. This includes:
 
 - **Data Collection**: Aggregate data from various sources, including social media, news, and financial data.
 - **Model Training**: Train the Llama3.0-405b model on this data to identify patterns and make predictions.
@@ -42,7 +42,7 @@ Jormunand employs sophisticated machine learning algorithms to analyze and predi
 
 ## Contributing
 
-We encourage contributions to the Jormunand project! If you have ideas, bug reports, or feature requests, please submit them through our GitHub repository.
+We encourage contributions to the Jormungand project! If you have ideas, bug reports, or feature requests, please submit them through our GitHub repository.
 
 ## License
 
@@ -50,8 +50,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or inquiries, please contact us at [JormunandAI@outlook.com](mailto:JormunandAI@outlook.com).
+For any questions or inquiries, please contact us at [JormungandAI@outlook.com](mailto:JormungandAI@outlook.com).
 
 ---
 
-Thank you for your interest in the Jormunand project. We are excited to see how this integration of Llama3.0-405b and Eliza Bot can enhance our engagement with AI in the realms of social media and predictive analytics.
+Thank you for your interest in the Jormungand project. We are excited to see how this integration of Llama3.0-405b and Eliza Bot can enhance our engagement with AI in the realms of social media and predictive analytics.
