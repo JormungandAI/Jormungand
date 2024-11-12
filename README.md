@@ -1,4 +1,4 @@
-# Jormunand: The Language Model Project
+# Jormungand: The Language Model Project
 
 ## Overview
 
